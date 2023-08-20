@@ -1,0 +1,19 @@
+h1{
+    font-family: sans-serif;
+    font-weight: 800px;
+    color: blue;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+}
+
+img{
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 150px;
+position: absolute;
+top : 20px;
+right: 80px;
+}
